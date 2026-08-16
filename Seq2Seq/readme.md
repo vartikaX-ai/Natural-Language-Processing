@@ -35,10 +35,16 @@ This folder contains my learning and practical implementations of **Sequence-to-
 2. RNN Seq2Seq with Text Data
    - Special Tokens
    - Teacher Forcing
-3. LSTM Seq2Seq
-4. GRU Seq2Seq
-5. Seq2Seq Training and Loss Observation
-6. Greedy Decoding
+3. LSTM Seq2Seq with Numerical Data
+4. LSTM Seq2Seq with Text Data
+    - Special Tokens
+   - Teacher Forcing
+6. GRU Seq2Seq with Numerical Data
+7. GRU Seq2Seq with Text Data
+    - Special Tokens
+   - Teacher Forcing
+9. Seq2Seq Training and Loss Observation
+10. Greedy Decoding
 
 ## Technologies Used
 
